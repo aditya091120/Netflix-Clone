@@ -29,13 +29,13 @@ A fully responsive Netflix Clone built using **React.js** that replicates the co
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](src\assets\Screenshots\Screenshot 2026-01-14 132506.png)
+![Home Page](<src\Screenshots\Screenshot 2026-01-14 132506.png>)
 
 ### 🎞️ Movies Section
-![Movies](src\assets\Screenshots\Screenshot 2026-01-14 132526.png)
+![Movies](<src\Screenshots\Screenshot 2026-01-14 132526.png>)
 
 ### ▶️ Trailer View
-![Trailer](src\assets\Screenshots\Screenshot 2026-01-14 132846.png)
+![Trailer](<src\Screenshots\Screenshot 2026-01-14 132846.png>)
 
 ---
 
