@@ -4,7 +4,8 @@ A fully responsive Netflix Clone built using **React.js** that replicates the co
 
 ---
 
-[Project Live Demo]([https://your-project-link.com](https://spectacular-selkie-a0b293.netlify.app/))
+[Netflix Clone Live]([https://glistening-vacherin-6b5b33.netlify.app/](https://spectacular-selkie-a0b293.netlify.app/))
+
 
 
 ## 🚀 Features
